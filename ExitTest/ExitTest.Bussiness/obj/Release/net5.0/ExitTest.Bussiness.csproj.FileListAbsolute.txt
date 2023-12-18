@@ -1,0 +1,15 @@
+C:\Task1\rahul-singh14\rahul-singh14\ExitTest\ExitTest\ExitTest.Bussiness\bin\Release\net5.0\ExitTest.Bussiness.deps.json
+C:\Task1\rahul-singh14\rahul-singh14\ExitTest\ExitTest\ExitTest.Bussiness\bin\Release\net5.0\ExitTest.Bussiness.runtimeconfig.json
+C:\Task1\rahul-singh14\rahul-singh14\ExitTest\ExitTest\ExitTest.Bussiness\bin\Release\net5.0\ExitTest.Bussiness.runtimeconfig.dev.json
+C:\Task1\rahul-singh14\rahul-singh14\ExitTest\ExitTest\ExitTest.Bussiness\bin\Release\net5.0\ExitTest.Bussiness.dll
+C:\Task1\rahul-singh14\rahul-singh14\ExitTest\ExitTest\ExitTest.Bussiness\bin\Release\net5.0\ExitTest.Bussiness.pdb
+C:\Task1\rahul-singh14\rahul-singh14\ExitTest\ExitTest\ExitTest.Bussiness\obj\Release\net5.0\ExitTest.Bussiness.csproj.AssemblyReference.cache
+C:\Task1\rahul-singh14\rahul-singh14\ExitTest\ExitTest\ExitTest.Bussiness\obj\Release\net5.0\ExitTest.Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Task1\rahul-singh14\rahul-singh14\ExitTest\ExitTest\ExitTest.Bussiness\obj\Release\net5.0\ExitTest.Bussiness.AssemblyInfoInputs.cache
+C:\Task1\rahul-singh14\rahul-singh14\ExitTest\ExitTest\ExitTest.Bussiness\obj\Release\net5.0\ExitTest.Bussiness.AssemblyInfo.cs
+C:\Task1\rahul-singh14\rahul-singh14\ExitTest\ExitTest\ExitTest.Bussiness\obj\Release\net5.0\ExitTest.Bussiness.csproj.CoreCompileInputs.cache
+C:\Task1\rahul-singh14\rahul-singh14\ExitTest\ExitTest\ExitTest.Bussiness\obj\Release\net5.0\ExitTest.Bussiness.dll
+C:\Task1\rahul-singh14\rahul-singh14\ExitTest\ExitTest\ExitTest.Bussiness\obj\Release\net5.0\refint\ExitTest.Bussiness.dll
+C:\Task1\rahul-singh14\rahul-singh14\ExitTest\ExitTest\ExitTest.Bussiness\obj\Release\net5.0\ExitTest.Bussiness.pdb
+C:\Task1\rahul-singh14\rahul-singh14\ExitTest\ExitTest\ExitTest.Bussiness\obj\Release\net5.0\ExitTest.Bussiness.genruntimeconfig.cache
+C:\Task1\rahul-singh14\rahul-singh14\ExitTest\ExitTest\ExitTest.Bussiness\obj\Release\net5.0\ref\ExitTest.Bussiness.dll
