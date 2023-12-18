@@ -37,10 +37,10 @@ Before setting up the Grocery Application, make sure you have the following prer
 
 To install and set up the Grocery Application, follow these steps:
 
-1. Clone the repository from GitLab:
+1. Clone the repository from Github:
 
    shell
-   git clone https://git.nagarro.com/GITG00641/DotNet/rahul-singh14
+   git clone (https://github.com/hrtzrahul/GroceryStoreApp)
 
 2. Change into the project directory:
 
